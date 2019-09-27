@@ -2,4 +2,4 @@
 
 ## Getting Started
 ### Prerequisites
-- bootstrap4 4.x.x
+- bootstrap 4.x.x [https://getbootstrap.com/docs/4.0/getting-started/introduction/]
